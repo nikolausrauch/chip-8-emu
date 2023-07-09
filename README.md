@@ -31,6 +31,7 @@ Key | Function
 `ctrl + J` | jump quirk
 `ctrl + M` | memory quirk
 `ctrl + S` | shifting quirk
+`ctrl + R` | VF register reset
 `space` | print chip-8 display and registers to stdout
 
 ## :books: Useful Resources
