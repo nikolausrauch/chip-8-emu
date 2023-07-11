@@ -24,8 +24,8 @@ $ chip-8-emu rom/example_rom.ch8 --quirks jmsr --speed 1000
 
 Key | Function
 --- | ---
-`PageUp` | *Increase* resolution by 2
-`PageDown` | *Decrease* resolution by 2
+`PageUp` | *Increase* resolution by 2x
+`PageDown` | *Decrease* resolution by 1/2
 `+` | *Increase* emulation speed
 `-` | *Decrease* emulation speed
 `ctrl + J` | jump quirk
@@ -38,13 +38,10 @@ Key | Function
 
 [https://en.wikipedia.org/wiki/CHIP-8#Opcode_table](https://en.wikipedia.org/wiki/CHIP-8#Opcode_table)  
 [http://devernay.free.fr/hacks/chip8/C8TECH10.HTM](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)   
-[https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/](https://multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter)   
-[https://chip-8.github.io/links/](https://chip-8.github.io/links)   
-[https://github.com/corax89/chip8-test-rom](https://github.com/corax89/chip8-test-rom)   
-[https://johnearnest.github.io/chip8Archive/](https://johnearnest.github.io/chip8Archive)   
-[http://johnearnest.github.io/Octo/docs/chip8ref.pdf](http://johnearnest.github.io/Octo/docs/chip8ref.pdf)   
-[http://www.emulator101.com/introduction-to-chip-8.html](http://www.emulator101.com/introduction-to-chip-8.html)   
+[https://chip-8.github.io/links/](https://chip-8.github.io/links)    
 [https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908)   
 [https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference)   
 [https://austinmorlan.com/posts/chip8_emulator/](https://austinmorlan.com/posts/chip8_emulator/)   
-[https://tobiasvl.github.io/blog/write-a-chip-8-emulator/](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)   
+[https://tobiasvl.github.io/blog/write-a-chip-8-emulator/](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)  
+[https://github.com/corax89/chip8-test-rom](https://github.com/corax89/chip8-test-rom)   
+[https://johnearnest.github.io/chip8Archive/](https://johnearnest.github.io/chip8Archive)    
